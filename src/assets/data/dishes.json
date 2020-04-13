@@ -1,0 +1,47 @@
+{
+  "dishes": [
+    {
+      "id": "1",
+      "name": "Tacos",
+      "country": "Mexico",
+      "ingredientes": [
+        "Tortilla",
+        "Carne",
+        "Cebolla",
+        "Cilantro",
+        "Salsa Picante"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Anticuchos",
+      "country": "Peru",
+      "ingredientes": ["Carne", "Papa", "Salsa"]
+    },
+    {
+      "id": "3",
+      "name": "Gallo Pinto",
+      "country": "Costa Rica",
+      "ingredientes": ["Frijoles", "Arroz", "Carne"]
+    },
+    {
+      "id": "4",
+      "name": "Arepa",
+      "country": "Venezuela",
+      "ingredientes": ["Masa", "Carne", "Queso"]
+    },
+    {
+      "id": "5",
+      "name": "Paella",
+      "country": "España",
+      "ingredientes": [
+        "Arroz",
+        "Azafran",
+        "Tomate",
+        "Mariscos",
+        "Ajo",
+        "Aceite"
+      ]
+    }
+  ]
+}
