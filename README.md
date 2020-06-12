@@ -1,4 +1,8 @@
+
+My-app is page that displays a restaurant menu with different cards applying Javascript with React Framework.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
